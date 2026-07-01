@@ -12,7 +12,7 @@
 
 ## 🚀 Скачать готовую версию
 
-→ **[Скачать Logrun.exe](Logrun.exe)** (Windows)
+→ [**[Скачать Logrun.exe](Logrun.exe)**] (https://github.com/vikt-sav/logran-running-log/releases/tag/exe-files) (Windows)
 
 *(файл ~39 МБ, включает всё необходимое)*
 
@@ -20,7 +20,7 @@
 
 ## 🛠 Как использовать
 
-1. Запусти `Logran.exe`
+1. Запусти `Logrun.exe`
 2. Введи своё имя (или выбери существующего пользователя)
 3. Добавляй пробежки:
    - Дата
